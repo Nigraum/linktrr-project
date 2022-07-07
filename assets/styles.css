@@ -7,3 +7,18 @@
 body {
     background-color: #1f000b;
 }
+
+h1 {
+    position: absolute;
+    width: 155px;
+    height: 38px;
+    left: 606px;
+    top: 184px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #fff0f6;
+}
