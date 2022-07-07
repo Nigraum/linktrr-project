@@ -1,39 +1,7 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-body {
-    background-color: #1f000b;
-}
-
-h1 {
+.container {
     position: absolute;
-    width: 155px;
-    height: 38px;
-    left: 606px;
-    top: 184px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 32px;
-    line-height: 38px;
-    text-align: center;
-    color: #fff0f6;
-}
-
-p {
-    position: absolute;
-    width: 109px;
-    height: 27px;
-    left: 629px;
-    top: 230px;
-    font-family: 'Roboto Mono';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 150%;
-    text-align: center;
-    color: rgba(255, 240, 246, 0);
+    width: 300px;
+    height: 505px;
+    left: 534px;
+    top: 60px
 }
